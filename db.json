@@ -1,7 +1,7 @@
 {
 "Price":[
-{"productId":"01t3t000004IYkpAAG","name":"fan","price":20},
-{"productId":"product2","name":"cooler","price":30}
+{"productId":"01t3t000004IYkpAAG","name":"fan","price":31},
+{"productId":"product2","name":"cooler","price":41}
 ],
 "comments":[
 {"productId":"01t3t000004IYkpAAG","author":"fanfan","text":"fan is good"},
