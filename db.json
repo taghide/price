@@ -1,14 +1,14 @@
 {
-"products":[
-{"id":1,"name":"fan","price":20},
-{"id":2,"name":"cooler","price":30}
+"Price":[
+{"productId":"01t3t000004IYkpAAG","name":"fan","price":20},
+{"productId":"product2","name":"cooler","price":30}
 ],
 "comments":[
-{"id":1,"author":"fanfan","text":"fan is good"},
-{"id":2,"author":"coolerfan","text":"cooler is good"}
+{"productId":"01t3t000004IYkpAAG","author":"fanfan","text":"fan is good"},
+{"productId":"product2","author":"coolerfan","text":"cooler is good"}
 ],
 "ratings":[
-{"id":1,"avglow":"3","avghigh":"5"},
-{"id":2,"avglow":"2","avghigh":"4"}
+{"productId":"01t3t000004IYkpAAG","avglow":"3","avghigh":"5"},
+{"productId":"product2","avglow":"2","avghigh":"4"}
 ]
 }
